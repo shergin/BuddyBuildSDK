@@ -1,6 +1,6 @@
 {
   "name": "BuddyBuildSDK",
-  "version": "1.0.7",
+  "version": "1.1.7",
   "summary": "Buddybuild SDK",
   "description": "Supercharge your app with the BuddyBuildSDK. Build, deploy and gather feedback for your mobile apps in one seamless, iterative system",
   "homepage": "http://buddybuild.com",
@@ -12,7 +12,7 @@
     "Buddy Build": "Sid@BuddyBuild.com"
   },
   "source": {
-    "http": "https://s3-us-west-2.amazonaws.com/buddybuild-sdk-builds/CrashReportingForExtensions/BuddyBuildSDK.framework.zip"
+    "http": "BuddyBuildSDK.framework"
   },
   "source_files": "BuddyBuildSDK.framework/Headers/BuddyBuildSDK.h",
   "platforms": {
